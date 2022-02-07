@@ -1,0 +1,11 @@
+build/
+node_modules/
+deployments/
+tasks/
+tasks/*
+deploy/
+.secret
+.secret-testnet
+.env
+artifacts
+cache
